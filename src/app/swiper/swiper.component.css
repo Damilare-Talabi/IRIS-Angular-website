@@ -1,0 +1,17 @@
+.center{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.partners{
+    font-size: 30px;
+    color: rgb(91, 15, 29);
+    margin-bottom: 50px;
+  }
+  .container-patner{
+      margin-top: 200px;
+      margin-bottom: 50px;
+      
+  }

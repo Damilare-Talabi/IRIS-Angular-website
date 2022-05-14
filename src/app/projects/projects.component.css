@@ -1,0 +1,77 @@
+
+.title{
+  margin-top: 150px;
+  margin-left: 50px;;
+}
+.heading{
+ 
+  font-size: 40px; 
+  font-weight: bold;
+}
+.sub{
+  margin-left: 50px;
+}
+
+
+.project{
+    font-size: 30px;
+    color:#ff7271
+}
+.limited{
+    
+    margin-left: 120px;
+    padding-left:60px;
+    margin-bottom: 30px;
+}
+.down{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.election{
+    color: black;
+    margin-bottom: 20px;
+}
+.feature-title{
+    color: black; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bullet-text{
+  margin-bottom:20px;
+}
+.tag{
+    color:#ff7271
+}
+.second{
+    background-color: rgb(250, 244, 245);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.pic{
+    margin-left: 140px;
+    
+}
+
+.passport{
+  padding-left: 150px;
+}
+.data{
+  padding-left: 40px;
+}
+.insure{
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+.design{
+  padding-left: 110px;
+}
+.contract{
+  margin-left:250px;
+  margin-top:100px;
+}
+
+img.rounded-corners{
+  border-radius: 30px;
+}

@@ -1,0 +1,33 @@
+.slick-slider {
+    width: 88%;
+    margin: auto;
+    background: rgb(14, 13, 13);
+  }
+  
+body .slick-prev, 
+body .slick-next {
+    height: 45px;
+    width: 40px;
+    background: grey !important;
+    z-index: 100;
+}
+.harmonized{
+  text-align: center;
+  margin-top:33px;
+  margin-bottom:100px;
+
+}
+
+.electronic{
+  font-size:30px;
+  color:rgb(91, 15, 29);
+  margin-bottom: -2px!important;
+  
+}
+.italics{
+  color:rgb(91, 15, 29);
+}
+
+.wider{
+  margin-top: 7px;
+}

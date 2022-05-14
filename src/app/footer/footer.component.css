@@ -1,0 +1,137 @@
+
+a{
+    color:white;
+  }
+  .shfooter .collapse {
+    display: inherit;
+  }
+
+  .bg-light {
+    background-color:rgb(158, 69, 85) !important;
+  }
+
+  #footer{
+    margin-top : 50px;
+  }
+
+  .product{
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .last-line{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* margin-left: 0px!important; */
+  }
+  .collapse{
+    font-style:inherit;
+  }
+h5{
+  font-style: inherit; 
+}
+.fastLinks{
+  line-height:1.6px}
+  .envelope{
+    padding-left: 30px;
+  }
+.house{
+  padding-left:50px;
+}
+.house2{
+  padding-left:40px;
+}
+.add{
+  padding-left:70px;
+}
+.country{
+  margin-left: -30px!important;
+  padding-top: 10px;
+}
+
+.lawn{
+  margin-left: 50px;
+}
+.use{
+  margin-left: 50px;
+}
+.policy{
+  margin-left: 50px;
+}
+.disclaimer{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  @media (max-width:767px) {
+    .shfooter ul {
+      margin-bottom: 0;
+    }
+  
+    .shfooter .collapse {
+      display: none;
+    }
+  
+    .shfooter .collapse.show {
+      display: block;
+    }
+  
+    .shfooter .title .fa-angle-up,
+    .shfooter .title[aria-expanded=true] .fa-angle-down {
+      display: none;
+    }
+  
+    .shfooter .title[aria-expanded=true] .fa-angle-up {
+      display: block;
+    }
+  
+    .shfooter .navbar-toggler {
+      display: inline-block;
+      padding: 0;
+    }
+  
+  }
+  
+  .resize {
+    text-align: center;
+  }
+  .resize {
+    margin-top: 3rem;
+    font-size: 1.25rem;
+  }
+  /*RESIZESCREEN ANIMATION*/
+  .fa-angle-double-right {
+    animation: rightanime 1s linear infinite;
+  }
+  
+  .fa-angle-double-left {
+    animation: leftanime 1s linear infinite;
+  }
+  @keyframes rightanime {
+    50% {
+      transform: translateX(10px);
+      opacity: 0.5;
+    }
+    100% {
+      transform: translateX(10px);
+      opacity: 0;
+    }
+  }
+  @keyframes leftanime {
+    50% {
+      transform: translateX(-10px);
+      opacity: 0.5;
+    }
+    100% {
+      transform: translateX(-10px);
+      opacity: 0;
+    }
+  }

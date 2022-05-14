@@ -1,0 +1,82 @@
+
+ .fourth{
+    background-color: rgb(250, 244, 245);  
+ }
+
+ img.rounded-corners{
+    border-radius: 30px;
+  }
+
+  .title{
+    margin-top: 150px;
+    margin-left: 50px;;
+  }
+  .heading{
+   
+    font-size: 40px; 
+    font-weight: bold;
+  }
+  .sub{
+    margin-left: 50px;
+  }
+  .push{
+    line-height: 1.2;
+  }
+
+  .public{
+    padding-left: 150px;
+  }
+
+  .chips{
+    padding-left: 150px;
+  }
+
+  .database{
+    margin-left: 120px;
+    padding-left:60px;
+    margin-bottom: 30px;
+}
+
+  .facial{
+    margin-left: 120px;
+    padding-left:60px;
+    margin-bottom: 30px;
+  }
+
+  .pic{
+    margin-left: 140px;
+    
+  }
+  .down{
+    margin-top: 90px;
+    margin-bottom: 50px;
+  }
+  .second{
+    background-color: rgb(250, 244, 245);
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .project{
+    font-size: 30px;
+    color:#ff7271
+  }
+  .dbms{
+    color: black;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .chip{
+    color: black;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .recognize{
+    color: black;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .key{
+    color: black;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
